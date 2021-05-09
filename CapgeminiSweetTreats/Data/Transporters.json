@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Bobby",
+    "StartTime": 540,
+    "EndTime": 780,
+    "CostPerMile": 1.75,
+    "RefridgeratedBox": "true"
+  },
+  {
+    "Name": "Martin",
+    "StartTime": 540,
+    "EndTime": 1020,
+    "CostPerMile": 1.5,
+    "RefridgeratedBox": "false"
+  },
+  {
+    "Name": "Geoff",
+    "StartTime": 600,
+    "EndTime": 960,
+    "CostPerMile": 2.0,
+    "RefridgeratedBox": "true"
+  }
+]
